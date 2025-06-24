@@ -1,7 +1,6 @@
-# Para Lili:
-Página especial para lili
+# Para_Lili:
+Lili me gustas mucho
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
